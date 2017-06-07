@@ -1,0 +1,5 @@
+#6.4 Benchmark other software
+Look at comparable software that is in broad use, for example proprietary alternatives to your project. Use them and find out what they do better than your project. This practice is very similar to 6.1 Dogfood, where you intensively use your own software – but the other way around: You need to know why other software is so compelling and easy to use. 
+This can also help when you don’t know how to design a specific interaction. A project similar to yours might have already solved it elegantly. At the same time don’t imitate their design and eventually their mistakes (Thomas, 2008). See 6.8 Make things differently. 
+Also get the developers of your project to use the other software so they can experience it themselves. Developers need to know which alternatives there are and what leads people to prefer one over the other. Similar to dogfooding again, when developers see themselves what another software does good, they are more motivated to improve their own. 
+

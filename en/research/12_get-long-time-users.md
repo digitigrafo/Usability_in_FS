@@ -1,0 +1,6 @@
+#6.12 Get longtime users
+For general feedback and to uncover more issues with new designs on the fly, there need to be people using the software regularly. Give the software to interested people, friends and family and encourage them to complain when there’s something annoying. 
+If the project is a web application, be sure to set up a server to be able to give out accounts. There you can always update with the latest versions and interface changes. In giving out the account, mention that it’s only a personal installation which you run for yourself and a few other people. As much as you take care, you can not guarantee against data loss so they should also store it elsewhere. Also say they should let you know when there are any problems. 
+Feedback might be hard to get, even when encouraging people to contact you about problems. Thus, when meeting someone who has been using the software, you should ask them about it or do a quick usability test and check how the current state of functionality and interface fares. 
+Longtime users uncover problems which are not immediately obvious in a usability test where the person uses the software for the first time only. Also, application developers dogfooding are so used to the basic functionality they might not even think about it anymore (Johansson, 2005). 
+
