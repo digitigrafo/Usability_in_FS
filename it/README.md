@@ -5,6 +5,10 @@
 
 [http://www.ecn.org/xm24/?page_id=114](http://www.ecn.org/xm24/?page_id=114)
 
+###the work is beginning, send a pull request to contribute!
+or write to us: hackordie AT gattini PUNTO ninja
+giugno 2017
+
 ---
 ##I libri
 

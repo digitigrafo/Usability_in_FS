@@ -1,4 +1,4 @@
-9. References
+#9. References
 Andreasen, M. S., Nielsen, H. V., Schrøder, S. O., Stage, J. (2006). Usability in Open Source Software Development: Opinions and Practice. Retrieved 30 June 2011. 
 Balazs, B. (2011). Designer vs. Developer? Retrieved on 30 June 2011. 
 Benson, C., Müller-Prove, M., Mzourek, J. (2004). Professional Usability in Open Source Projects: GNOME, OpenOffice.org, NetBeans. Retrieved 30 June 2011. 
