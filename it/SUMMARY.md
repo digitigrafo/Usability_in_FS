@@ -1,12 +1,12 @@
 # Usability in Free Software
 
-* [About the author](introduction/01_about-the-author.md)
-* [About this document](introduction/02_about-this-document.md)
-* [Problem](introduction/03_problem.md)
-* [Goal](introduction/04_goal.md)
+* [Riguardo l'autore](introduzione/01_Autore.md)
+* [Il testo](introduzione/02_Testo.md)
+* [Il problema](introduzione/03_Problema.md)
+* [L'obiettivo](introduzione/04_Obiettivo.md)
 
-* [The project e you](the_project_e_you/00_the-project-and-you.md)
-* [You are a usability person](the_project_e_you/01_you-are-a-usability-person.md)
-* [You are a developer](the_project_e_you/02_you-are-a-developer.md)
+* [Tu e il progetto](tu_e_il_progetto/00_Tu.md)
+* [Tu sei un designer](tu_e_il_progetto/01_Usability.md)
+* [Tu sei uno sviluppatore](tu_e_il_progetto/02_Developer.md)
 
 
