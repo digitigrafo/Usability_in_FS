@@ -11,7 +11,7 @@ Benson, Müller-Prove & Mzourek (2004)
 Ci sono molti contributori internazionali sul software. Questo non è solo programmare l'applicazione in sè, ma anche traduzione, design, siti web, outreach e più. Come già descritto da Benson, Müller-Prove & Mzourek (2004), noi necessitiamo un chiaro e definito processoo di presa delle decisioni per coordinare tutte i differenti sforzi mentre si progetta e si sviluppa il prodotto, che è il software. 
 The integration of software cannot be achieved by committee, where everyone has to put in their own additions (featuritis again). Deve essere controllato da dittatoriali artisti che hanno piena parola per dare il taglio finale. 
 Nelson (1990, p. 243)
-And additions Ed aggiunte non arrivano solo dagli sviluppatori ma anche indirettamente dagli utenti: 
+Ed aggiunte non arrivano solo dagli sviluppatori ma anche indirettamente dagli utenti: 
 Leggendo dozzine di report bugs di GNOME e Red Hat al giorno, ho trovato che gli utenti chiedono una preferenza di default. 
 Pennington (2002)
 Allo stesso tempo, multiple interface designers need to agree on their designs. Decisions need to be documented and based on founded claims. It needs to be made clear that interface design is more of a science where research is important than an art that is subjective: 
