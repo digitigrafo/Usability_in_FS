@@ -1,0 +1,7 @@
+#2.1 You are a usability person
+
+If you’re a usability person looking for a project to improve, don’t pick any project but one useful to you. Independent free & open source software is about scratching one’s own itch (Raymond, 1997) so you should do it in a similar fashion as a user representative (Nichols & Twidale, 2003). You should be committed to the project and know it inside out. 
+The other developers are volunteers as much as you. Just jump in and do your best, your work will be appreciated. In contrast and as an advantage to paid usability work there is no constraint set by clients as to how the test should go. You can freely assess which methods you use and how many (or rather few) participants you interview. 
+Many free software developers already know about usability and the importance of it but don’t know how to improve it. A big issue in working with them is a lack of trust (Andreasen et al., 2006, p. 309). That is why you have to openly communicate your findings and methods. Ideally educate the developers about testing methods and common usability problems so they are enthusiastic about it themselves. 
+The earlier you do testing, the better. No developer likes throwing away lots of his code, especially those working in their free time. And this shouldn’t be the issue holding the software back from being more usable. Communicate your findings early and often (Reitmayr, Balazs & Mühlig, 2006). 
+
